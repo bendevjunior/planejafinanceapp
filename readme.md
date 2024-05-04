@@ -16,9 +16,6 @@ Explore gráficos detalhados e relatórios para entender melhor seus hábitos de
 ### 4. Alcance Suas Metas
 Estabeleça metas financeiras emocionantes e acompanhe seu progresso enquanto trabalha para realizá-las.
 
-## Tecnologia Moderna
-Desenvolvido com Flutter para proporcionar uma experiência de usuário nativa e intuitiva. Utiliza o Firebase para garantir a segurança e confiabilidade dos seus dados.
-
 ## Como Começar
 
 1. Faça o download do PlanejaFinance.
