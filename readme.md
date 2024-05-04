@@ -32,7 +32,7 @@ Desenvolvido com Flutter para proporcionar uma experiência de usuário nativa e
 
 ## Fale Conosco
 
-Tem alguma dúvida ou sugestão? Entre em contato conosco em support@planejafinance.com.
+Tem alguma dúvida ou sugestão? Entre em contato conosco em contato@bendevoficial.com.
 
 ## Siga-nos nas Redes Sociais
 
